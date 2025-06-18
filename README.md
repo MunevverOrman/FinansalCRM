@@ -28,6 +28,7 @@ Tüm kayıtlar Microsoft SQL Server veritabanı üzerinde saklanır.
 
 Windows Forms üzerinden sade ve anlaşılır bir masaüstü tasarımı.
 
+
 ![image](https://github.com/user-attachments/assets/6f304fa0-43f1-4e51-9bb6-d927c9e5c9c0)
 
 ![Ekran görüntüsü 2025-06-11 035936](https://github.com/user-attachments/assets/fce1b528-c5f6-446e-85e7-28d1ffadddbd)
