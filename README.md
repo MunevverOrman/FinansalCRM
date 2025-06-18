@@ -22,6 +22,7 @@ Banka giriş/çıkış hareketlerinin kayıt altına alınması ve izlenmesi.
 Harcamalar ve banka hareketlerine dair genel görünüm.
 
 🗄 Kalıcı Veri Yönetimi
+
 Tüm kayıtlar Microsoft SQL Server veritabanı üzerinde saklanır.
 
 🖥️ Kullanıcı Dostu Arayüz
