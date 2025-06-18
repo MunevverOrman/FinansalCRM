@@ -6,21 +6,26 @@ Proje, modern kullanıcı deneyimini ön planda tutan basit ve sezgisel bir aray
 🚀 Öne Çıkan Özellikler
 
 🔐 Güvenli Kullanıcı Girişi
+
 Entity Framework üzerinden doğrulama mekanizması ile kullanıcı oturumu.
 
 💸 Harcama Kontrolü
+
 Gider ekleme, güncelleme ve silme gibi temel finansal işlemler.
 
 🏦 Banka İşlem Kayıtları
+
 Banka giriş/çıkış hareketlerinin kayıt altına alınması ve izlenmesi.
 
 📊 Temel Finansal Raporlama
+
 Harcamalar ve banka hareketlerine dair genel görünüm.
 
 🗄 Kalıcı Veri Yönetimi
 Tüm kayıtlar Microsoft SQL Server veritabanı üzerinde saklanır.
 
 🖥️ Kullanıcı Dostu Arayüz
+
 Windows Forms üzerinden sade ve anlaşılır bir masaüstü tasarımı.
 
 ![image](https://github.com/user-attachments/assets/6f304fa0-43f1-4e51-9bb6-d927c9e5c9c0)
